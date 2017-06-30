@@ -108,6 +108,5 @@ for iteration in range(1, iteration):
             sys.stdout.write(next_char)
             sys.stdout.flush()
         print()
-
 model.save("model_"+filename+"_"+str(maxlen)+"maxlen_"+str(iteration)+"iterations"+".h5")
 print("Model saved")
