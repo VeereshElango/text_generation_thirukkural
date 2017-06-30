@@ -109,5 +109,5 @@ for iteration in range(1, iteration):
             sys.stdout.flush()
         print()
 
-model.save("model_"+filename+"_"+maxlen+"maxlen_"+iteration+"iterations"+".h5")
+model.save("model_"+filename+"_"+str(maxlen)+"maxlen_"+str(iteration)+"iterations"+".h5")
 print("Model saved")
