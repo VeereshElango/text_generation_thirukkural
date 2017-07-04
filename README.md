@@ -1,11 +1,8 @@
 # Thirukkural written by Machine
 Text generation using LSTM model in keras with Thirukural
-
-After reading the article by Andrej Karpathy on [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/), I was super excited to apply LSTM on different dataset.
-
-Finally, I chose [Thirukkural](https://en.wikipedia.org/wiki/Tirukku%E1%B9%9Ba%E1%B8%B7) which is one the most widely translated non-religious works in the world. It is written in one of the oldest classical languages of the world [Tamil](https://en.wikipedia.org/wiki/Tamil_language).
- 
-    
+.
+For more information, check this [post
+](https://veereshelango.github.io/articles/2017-07/text-generation-with-thirukkural)    
 
 ### Results
 
