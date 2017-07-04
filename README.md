@@ -4,6 +4,7 @@ Text generation using LSTM model in keras with Thirukural
 For more information, check this [post
 ](https://veereshelango.github.io/articles/2017-07/text-generation-with-thirukkural)    
 
+
 ### Results
 
 Start Word : "சாதலின் "
